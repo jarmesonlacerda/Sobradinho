@@ -59,3 +59,14 @@ main {
     color: #6c6c6c;
 }
 
+input {
+    float: left;
+    margin-left: 175px;
+    margin-top: 10px;
+}
+
+#search {
+    float: left;
+    margin-left: 169px;
+}
+
